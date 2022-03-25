@@ -11,34 +11,6 @@ public class ConnectionLine{
 
         this.portA = portA;
         this.portB = portB;
-        // switch(boAPosition){
-        //     case 'N':
-        //         portA = boA.portN;
-        //         break;
-        //     case 'S':
-        //         portA = boA.portS;
-        //         break;
-        //     case 'E':
-        //         portA = boA.portE;
-        //         break;
-        //     case 'W':
-        //         portA = boA.portW;
-        //         break;
-        // }
-        // switch(boBPosition){
-        //     case 'N':
-        //         portB = boB.portN;
-        //         break;
-        //     case 'S':
-        //         portB = boB.portS;
-        //         break;
-        //     case 'E':
-        //         portB = boB.portE;
-        //         break;
-        //     case 'W':
-        //         portB = boB.portW;
-        //         break;
-        // }
     }
 
     public void draw(Graphics g){
